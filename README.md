@@ -56,4 +56,4 @@ Teaching & building under:
 ### 📬 **Connect**
 
 📎 GitHub: github.com/JoeB022
-✉️ Email: [joebrian998@gmail.com](mailto:joebrian998@gmail.com)
+✉️ Email: [joebrian998@gmail.com](mailto:joebrian.dev@gmail.com)
