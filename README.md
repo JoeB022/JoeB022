@@ -16,10 +16,10 @@ I’m a developer who builds modern web platforms and explores robotics using Py
 
 ### 🛠 **Tech & Tools I Use**
 
-**Languages:** Python · JavaScript · Bash
-**Frameworks:** Django · REST Framework · React · Vite · Tailwind
+**Languages:** Python · JavaScript · Ruby · Bash
+**Frameworks:** Flask · Ruby on Rails · REST Framework · React · Vite · Tailwind
 **Platforms:** Supabase · Vercel · Linux · Git · Docker
-**Extras:** Arduino · Robotics · Sensors · Serial comms · Tinkercad
+**Extras:** Arduino · Robotics · Sensors · Tinkercad
 
 ---
 
@@ -35,7 +35,7 @@ A modern real estate platform that connects tenants & landlords with:
 * Premium listings
 * Role-based dashboards (Tenant · Landlord · Admin)
 
-Stack: Django · React · Tailwind · JWT · PostgreSQL
+Stack: Flask · React · Tailwind · JWT · PostgreSQL
 
 ---
 
@@ -48,7 +48,7 @@ I also tinker with:
 * Sensors + actuators
 * Game-based learning builds
 
-Teaching & building under:
+Code instructor & building under:
 **Code With Kids** › hardware + software learning for youth.
 
 ---
